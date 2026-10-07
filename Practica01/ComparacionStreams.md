@@ -1,3 +1,9 @@
+Alumno: Jaime Michel Garcia Sostenes
+
+Facultad De Ingeniería 
+
+Reporte Practica 01: Comparacion de Streams
+
 El uso de BufferedOutputStream suele ser decenas o cientos de veces más rápido debido a los siguientes factores de arquitectura de software y hardware:
 
 Con FileOutputStream: En cada una de las 100,000 iteraciones del bucle for, la JVM le pide directamente al sistema operativo 
